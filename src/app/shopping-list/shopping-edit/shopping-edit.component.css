@@ -1,0 +1,11 @@
+/* .btn-success {
+  margin-right: .25rem;
+}
+
+.btn-danger {
+  margin-right: .25rem;
+} */
+
+.actions-wrapper .btn:not(:last-child) {
+  margin-right: .25rem;
+}
